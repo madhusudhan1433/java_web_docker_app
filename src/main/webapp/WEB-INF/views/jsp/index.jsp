@@ -14,7 +14,7 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
 	<div class="container">
 		<div class="navbar-header">
-			<a class="navbar-brand" href="#">Ashok IT</a>
+			<a class="navbar-brand" href="#">DEVOPS</a>
 		</div>
 	</div>
 </nav>
@@ -40,15 +40,16 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Ashok IT..!!</h2>
-			<h3>Contact @ +91 - 9985296677 / 9985396677 / 6301921083 </h3>
+			<h2>Welcome to VCUBE SOFTWARE SOLUTIONS!!</h2>
+			<h3>Contact @ +91 - 7675070124 / 9059456742 / 9703430437 </h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Ashok IT 2023</p>
+		<p>Learn Best Courses In Our Training Academy For your IT Career </p>
+		<p>&copy; vss 2023</p>
 	</footer>
 </div>
 
